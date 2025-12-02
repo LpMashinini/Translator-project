@@ -2,10 +2,11 @@
     display: flex;
     flex-direction: column;
     margin: auto;
-    margin-top: 30px;
+    margin-top: 50px;
     background: #fff;
+    border-radius: 10px;
     padding-bottom: 30px;
-    width: 500px;
+    width: 450px;
 }
 
 .header {
